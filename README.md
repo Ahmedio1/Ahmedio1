@@ -4,8 +4,8 @@ Salut ! Je suis **Ahmed**, étudiant en 5e année d'informatique et de cyberséc
 
 ## Projets mis en avant
 
-- [**ChatBot**]([https://github.com/f7ed0/ProjetS8/tree/main]) : Un projet basé sur le machine learning pour détecter les activités anormales dans les réseaux. Utilisation de Python, Scikit-learn, et Snort.
-- [**Application de mail avec chiffrement des pièces jointes**]([https://github.com/Ahmedio1/TP_Cryptographie]) : Une application développée en Python avec une interface graphique Tkinter permettant de gérer et de sécuriser les mots de passe de manière efficace.
+- [**ChatBot**](https://github.com/f7ed0/ProjetS8/tree/main) : Un projet de chatbot intelligent développé dans le cadre de mon cursus en informatique. Ce chatbot utilise des techniques de machine learning pour comprendre et répondre aux questions des utilisateurs de manière naturelle. Le projet a été réalisé en Python et react.
+- [**Application de mail avec chiffrement des pièces jointes**](https://github.com/Ahmedio1/TP_Cryptographie) : Une application de messagerie sécurisée développée en Java. Cette application permet d'envoyer des emails avec des pièces jointes chiffrées pour garantir la confidentialité des données. Le chiffrement est réalisé en utilisant les algorithmes IBM, ElGamal, et AES, offrant un haut niveau de sécurité. Ce projet a été conçu pour mettre en pratique les concepts avancés de cryptographie.
 
 ## Technologies et Compétences
 
